@@ -1,0 +1,37 @@
+Initial Idea:
+
+A website that has material from YouTube api related to the content we learned in previous units.
+- Categorized by the overarching unit theme
+
+Example Categories:
+- DOM and vanilla javascript
+- MEN stack
+- Django Python
+
+Instructional videos will be supplied by the search queries pertaining to the unit.
+
+Display the first 10 videos related to search query (aka topic)
+
+Parameters are preset - user does not search on their own (href form /query?django)
+
+Look and Feel Design Goal:
+- Like Netflix UI
+
+Other Options:
+
+Books Review App
+- Use API to get books
+- Use a carousel using the book covers
+- Write and read reviews on books
+
+Museum Art App 
+- Art (Already done by a student)
+
+Movie Review App
+- Use movie API for movie database
+- Have users leave reviews on the movies they have seen
+
+Ecommerce Site 
+- Use an API to display product information
+- Have users add items to their cart
+- Checkout ability
